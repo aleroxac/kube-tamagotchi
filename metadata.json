@@ -1,0 +1,5 @@
+{
+  "name": "Kube-Tamagotchi",
+  "description": "A digital pet simulation where your pet's vitals are powered by a simulated Kubernetes cluster metrics: Health (Pods), Mood (RPS/Latency), Hunger (CPU/Memory), and Weight (Costs).",
+  "requestFramePermissions": []
+}
